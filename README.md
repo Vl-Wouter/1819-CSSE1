@@ -3,5 +3,5 @@
 ### Push
 * git status
 * git add (files)
-* git commit "message"
+* git commit -m "message"
 * git push
