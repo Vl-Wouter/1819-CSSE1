@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweek2\\test\\test.csproj",
+      "projectUniqueName": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek2\\test\\test.csproj",
       "projectName": "test",
-      "projectPath": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweek2\\test\\test.csproj",
+      "projectPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek2\\test\\test.csproj",
       "packagesPath": "C:\\Users\\scrim\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweek2\\test\\obj\\",
+      "outputPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek2\\test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
