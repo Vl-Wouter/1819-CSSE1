@@ -1,0 +1,11 @@
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\bin\Debug\netcoreapp2.1\Wachtwoord.deps.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\bin\Debug\netcoreapp2.1\Wachtwoord.runtimeconfig.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\bin\Debug\netcoreapp2.1\Wachtwoord.runtimeconfig.dev.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\bin\Debug\netcoreapp2.1\Wachtwoord.dll
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\bin\Debug\netcoreapp2.1\Wachtwoord.pdb
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.csprojAssemblyReference.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.csproj.CoreCompileInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.AssemblyInfoInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.AssemblyInfo.cs
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.dll
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week4-extra\Wachtwoord\obj\Debug\netcoreapp2.1\Wachtwoord.pdb

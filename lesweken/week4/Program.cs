@@ -31,7 +31,16 @@ namespace week4
             // int result = (a + b + c + d)
             int result = sum(sum(multiply(sum(100, 7), 3), multiply(5, division(sum(406, 7367), 69))), sum(subtract(multiply(73, 41), 39), subtract(multiply(7, 8), 19)));
 
+            result--;
             Console.WriteLine("Het resultaat is: " + result);
+
+            if(result == 3872) {
+                Console.WriteLine("Dit is het juiste resultaat");
+            } else if(result > 3872) {
+                Console.WriteLine("Helaas... Te hoog...");
+            } else {
+                Console.WriteLine("Je bent er bijna!");
+            }
 
         }
 
