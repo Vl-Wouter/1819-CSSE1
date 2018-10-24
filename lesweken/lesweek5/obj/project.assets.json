@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\week4-extra\\Faculteit\\Wachtwoord.csproj",
-      "projectName": "Wachtwoord",
-      "projectPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\week4-extra\\Faculteit\\Wachtwoord.csproj",
+      "projectUniqueName": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek5\\lesweek5.csproj",
+      "projectName": "lesweek5",
+      "projectPath": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek5\\lesweek5.csproj",
       "packagesPath": "C:\\Users\\scrim\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\week4-extra\\Faculteit\\obj\\",
+      "outputPath": "C:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\lesweek5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
