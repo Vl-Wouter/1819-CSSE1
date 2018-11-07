@@ -8,23 +8,23 @@ namespace opdracht2
         {
             Program program = new Program();
             
-            // Alle tafels
+            // Alle tafels.
             program.AlleTafels();
             
-            // Tafel
+            // Tafel.
             Console.WriteLine("Geef een getal in:");
             int tafel = Convert.ToInt32(Console.ReadLine());
             program.Tafel(tafel);
             
-            // Factulteit
+            // Factulteit.
             Console.WriteLine("Geef een getal in:");
             int getal = Convert.ToInt32(Console.ReadLine());
             program.Faculteit(getal);
 
-            // Faculteit 10
+            // Faculteit 10.
             program.Faculteit(10);
             
-            // Fibonacci
+            // Fibonacci.
             Console.WriteLine("Geef een eindgetal in:");
             int eindfib = Convert.ToInt32(Console.ReadLine());
             program.Fibonacci(eindfib);
