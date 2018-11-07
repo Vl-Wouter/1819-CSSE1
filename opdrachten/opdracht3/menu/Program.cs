@@ -12,13 +12,13 @@ namespace menu
             Dictionary<string, double> menu = new Dictionary<string, double>();
 
             // Add items.
-            menu.Add("Plat water", 1.00);
-            menu.Add("Cola 25cl", 1.50);
-            menu.Add("Cola 33cl", 2.00);
-            menu.Add("Witte wijn", 3.00);
-            menu.Add("Pils", 2.00);
-            menu.Add("Toast", 5.00);
-            menu.Add("Kaasplank", 4.00);
+            menu.Add("plat water", 1.00);
+            menu.Add("cola 25cl", 1.50);
+            menu.Add("cola 33cl", 2.00);
+            menu.Add("witte wijn", 3.00);
+            menu.Add("pils", 2.00);
+            menu.Add("toast", 5.00);
+            menu.Add("kaasplank", 4.00);
 
             // Read out.
 
@@ -42,7 +42,7 @@ namespace menu
 
             // Find a certain item.
             Console.WriteLine("\nGeef een naam van een item op:");
-            string value = Console.ReadLine();
+            string value = Console.ReadLine().ToLower();
             try
             {
                 Console.WriteLine(value + " kost " + menu[value] + "EUR.");
