@@ -53,11 +53,5 @@ namespace menu
             }
 
         }
-
-        void ReadArray(int length, string[] array1, double[] array2) {
-            for(int i = 0; i < length; i++) {
-                Console.WriteLine(array1[i] + " - " + array2[i] + "EUR");
-            }
-        }
     }
 }
