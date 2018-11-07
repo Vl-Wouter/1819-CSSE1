@@ -22,21 +22,24 @@ namespace menu
 
             // Read out.
 
-            foreach(var item in menu) {
+            foreach(var item in menu) 
+            {
                 Console.WriteLine(item.Key + " - " + item.Value + "EUR");
             }
 
             // Sorted by name.
 
             List<string> itemList = new List<string>();
-            foreach(var key in menu) {
+            foreach(var key in menu) 
+            {
                 itemList.Add(key.Key);
             }
             
             itemList.Sort();
 
             Console.WriteLine("\nGesorteerd op naam:");
-            foreach(var item in itemList) {
+            foreach(var item in itemList) 
+            {
                 Console.WriteLine(item + " - " + menu[item] + "EUR");
             }
 

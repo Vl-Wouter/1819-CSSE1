@@ -13,14 +13,16 @@ Items toevoegen aan collectie, items kunnen weergeven, sorteren van collectie en
 * Toast: 5
 * Kaasplank: 4
 
-## Antwoorden
+## Antwoorden 3.1
 
-1a. (Collectie)
-1b. Zie menu/
+1. Dictionary & List
+2. Zie menu/
 
 ## Opdracht 3.2: Wachtrij
 
-## Antwoorden
+Maak een wachtrij met werkitems die opgeslagen worden en afgehandeld worden in volgorde van toevoeging.
 
-2a. (Collectie)
-2b. Zie wachtrij/
+## Antwoorden 3.2
+
+1. Queue
+2. Zie wachtrij/
