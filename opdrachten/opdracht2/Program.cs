@@ -6,8 +6,16 @@ namespace opdracht2
     {
         static void Main(string[] args)
         {
+            // Tafel
+            Console.WriteLine("Geef een getal in:");
+            int tafel = Convert.ToInt32(Console.ReadLine());
+            for(int i = 0; i < 10; i++) {
+                Console.WriteLine(i + " * " + tafel + " = " + (i*tafel));
+            }
+            
             // Factulteit
-            int getal = 10;
+            Console.WriteLine("Geef een getal in:");
+            int getal = Convert.ToInt32(Console.ReadLine());
             int fac = getal;
 
             while(getal > 2) {
@@ -19,11 +27,13 @@ namespace opdracht2
             
             
             // Fibonacci
+            Console.WriteLine("Geef een eindgetal in:");
+            int eindfib = Convert.ToInt32(Console.ReadLine());
             int g0 = 0;
             int g1 = 1;
             int next = 0;
 
-            for(int i = 0; i < 15; i++) {
+            for(int i = 0; i < eindfib; i++) {
                 if(i == 0) {
                     next = 0;
                 } else if(i == 1) {
