@@ -7,28 +7,7 @@ namespace menu
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Opdracht 3: Menu");
-            // // De makkelijke oplossing.
-            // Program program = new Program();
-            // // string[,] menuItems = new[,] {{"Plat water", "1"}, {"Cola 25cl","1.50"}, {"Cola 33cl","2"},  {"Witte wijn","3"}, {"Pils","2"}, {"Toast","5"}, {"Kaasplank","4"}};
-
-            // string[] items = new[] {"Plat Water", "Cola 25cl", "Cola 33cl", "Witte wijn", "Pils", "Toast", "Kaasplank"};
-            // double[] prijzen = new[] {1.00, 1.50, 2.00, 3.00, 2.00, 5.00, 4.00};
-            // int length = items.GetLength(0);
-
-            // program.ReadArray(length, items, prijzen);
-
-            // // Sorteren op naam.
-
-            // Array.Sort(items, prijzen);
-            // Console.WriteLine("\nGesorteerd op naam:");
-            // program.ReadArray(length, items, prijzen);
-
-            // // Sorteren op prijs.
-
-            // Array.Sort(prijzen, items);
-            // Console.WriteLine("\nGesorteerd op prijs:");
-            // program.ReadArray(length, items, prijzen);
+            Console.WriteLine("Opdracht 3: Menu\n\n");
 
             Dictionary<string, double> menu = new Dictionary<string, double>();
 
