@@ -20,4 +20,3 @@ Back end verwijst dan naar alles wat achter de schermen gebeurd. Alles wat op de
 
 3. **Welke zijn de populairste back end en front end frameworks?**  
 De populairste frameworks zijn **Bootstrap**, **Foundation** en **Semantic-UI** voor Front end. Voor back end zijn dit onder andere **Ruby on Rails**, **Django** en **Laravel**.
-  

@@ -1,0 +1,11 @@
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.csprojAssemblyReference.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.csproj.CoreCompileInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.AssemblyInfoInputs.cache
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.AssemblyInfo.cs
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\bin\Debug\netcoreapp2.1\week07.deps.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\bin\Debug\netcoreapp2.1\week07.runtimeconfig.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\bin\Debug\netcoreapp2.1\week07.runtimeconfig.dev.json
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\bin\Debug\netcoreapp2.1\week07.dll
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\bin\Debug\netcoreapp2.1\week07.pdb
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.dll
+C:\Users\scrim\Code\1819-CSSE1\lesweken\week07\obj\Debug\netcoreapp2.1\week07.pdb
