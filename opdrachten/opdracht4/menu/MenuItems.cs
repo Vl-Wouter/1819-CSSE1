@@ -13,7 +13,24 @@ class MenuItem : Product
     {
         string productString =  "Het item " + this.Naam + " (" + this.Type;
         string prijsString = ") kost " + this.Waarde + " " + this.Valuta + ".";
-        return productString + prijsString;
+        string ingredient = "De ingredienten zijn ";
+
+        try {
+            int length = this.Ingredienten.Length;
+            for(int i = 0; i < length; i++) {
+                ingredient += this.Ingredienten[i];
+                if(i < length - 1) {
+                    ingredient += ", ";
+                }
+                if(i == length-1) {
+                    ingredient += '.';
+                }
+            }
+        }
+        catch(System.NullReferenceException) {
+            ingredient += "onbekend.";
+        }
+        return productString + prijsString + ingredient;
     }
 
     // Constructors
