@@ -1,6 +1,6 @@
 using System;
 
-namespace opdracht5 {
+namespace Book {
 
   public class Book {
     // Fields

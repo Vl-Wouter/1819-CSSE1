@@ -38,4 +38,6 @@ public class Author
       gender = value;
     }
   }
+
+  // Andere optie is werken met constructor en getter methode.
 }
