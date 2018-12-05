@@ -60,5 +60,4 @@ namespace Student
       return "Persoon";
     }
   }
-    
 }
