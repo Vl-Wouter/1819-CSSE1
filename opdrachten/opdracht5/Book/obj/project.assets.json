@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\opdracht5.csproj",
+      "projectUniqueName": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\Book\\opdracht5.csproj",
       "projectName": "opdracht5",
-      "projectPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\opdracht5.csproj",
+      "projectPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\Book\\opdracht5.csproj",
       "packagesPath": "C:\\Users\\scrim\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\obj\\",
+      "outputPath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\opdrachten\\opdracht5\\Book\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
