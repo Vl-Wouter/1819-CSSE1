@@ -1,14 +1,6 @@
 {
-  "ProjectFilePath": "c:\\Users\\scrim\\Code\\1819-CSSE1\\lesweken\\week3\\week3.csproj",
+  "ProjectFilePath": "c:\\Users\\Wouter\\Code\\gdmgent-1819-CSSE1\\lesweken\\week3\\week3.csproj",
   "TargetFramework": "netcoreapp2.1",
   "TagHelpers": [],
-  "Configuration": {
-    "ConfigurationName": "UnsupportedRazor",
-    "LanguageVersion": "1.0",
-    "Extensions": [
-      {
-        "ExtensionName": "UnsupportedRazorExtension"
-      }
-    ]
-  }
+  "Configuration": null
 }
