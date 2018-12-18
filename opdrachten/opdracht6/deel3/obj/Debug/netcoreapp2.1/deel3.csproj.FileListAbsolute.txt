@@ -1,0 +1,11 @@
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\bin\Debug\netcoreapp2.1\deel3.deps.json
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\bin\Debug\netcoreapp2.1\deel3.runtimeconfig.json
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\bin\Debug\netcoreapp2.1\deel3.runtimeconfig.dev.json
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\bin\Debug\netcoreapp2.1\deel3.dll
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\bin\Debug\netcoreapp2.1\deel3.pdb
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.csprojAssemblyReference.cache
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.csproj.CoreCompileInputs.cache
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.AssemblyInfoInputs.cache
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.AssemblyInfo.cs
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.dll
+c:\Users\Wouter\Code\gdmgent-1819-CSSE1\opdrachten\opdracht6\deel3\obj\Debug\netcoreapp2.1\deel3.pdb
